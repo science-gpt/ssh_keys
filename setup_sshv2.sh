@@ -5,7 +5,7 @@ github_keys_url="https://raw.githubusercontent.com/science-gpt/ssh_keys/main"
 
 # Replace with your user list
 
-users=("spencer" "areel" "bing" "amaan" "carter")
+users=("spencer" "areel" "bing" "amaan" "carter" "asfandyaar")
 
 # Function to download and set up SSH public key for a user
 setup_ssh_public_key() {
